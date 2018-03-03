@@ -181,19 +181,19 @@
   },
 
   "spotify": {
-    "title": "Spotify track info",
-    "name": "Song name",
-    "album": "Album",
-    "author": "Author",
-    "listen": "Listen to track",
-    "not_listening": "**This user isn't listening to Spotify!**"
+    "title": "Información de Seguimiento de Spotify",
+    "name": "Nombre de la Canción",
+    "album": "Álbum",
+    "author": "Autor",
+    "listen": "Escuchando a",
+    "not_listening": "**Este Usuario no est'a escuchando a Spotify!**"
   },
 
   "unmute": {
-    "cant_unmute_this_usr": ":warning: You cannot unmute that user!",
-    "cant_unmute_yourself": ":warning: You cannot unmute yourself!",
-    "not_muted": ":warning: This user is not muted!",
-    "success": ":mute: {user} has been unmuted"
+    "cant_unmute_this_usr": ":warning: No pueda finalizar el silenco a ese usuario!",
+    "cant_unmute_yourself": ":warning: No pueda terminar el silenco de ti mismo!",
+    "not_muted": ":warning: Este usuario no estan silenciado!",
+    "success": ":mute: El silenco de {user} ha sido terminado"
   }
 
 }
