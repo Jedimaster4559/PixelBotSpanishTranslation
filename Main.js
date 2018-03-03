@@ -1,6 +1,6 @@
 {
 
-  "name": "spanish",
+  "name": "español",
 
   "global": {
     "inv_usr": ":warning: No puedo encontrar este usuario! Escribe la identificación del usuario por favor, o @<usuario>",
@@ -35,17 +35,17 @@
   },
 
   "help": {
-    "user_grp": "User",
-    "showing_usr_cmds": "Currently showing user commands. To view another group do px!help [group / command]",
-    "cmds_found": "commands found",
-    "optional": "means optional",
-    "required": "means required"
+    "user_grp": "Usuario",
+    "showing_usr_cmds": "Mostrando commandos del usuario. Para ver un otro groupo hace px!help [groupo / commando]",
+    "cmds_found": "Commandos encontrado",
+    "optional": "¨significa opcional",
+    "required": "significa necesario"
   },
 
   "setlanguage": {
-    "invalid_lang": "Cannot find language! Please enter propper name\nExample: px@setlang english",
-    "lang_set_to": "Language set to `{lang}`",
-    "chan_lang_set_to": "Channel language set to ` {lang} `"
+    "invalid_lang": "No puedo encontrar el idioma! Entra el nombre apropriado por favor\nEjemplo: px@setlang english",
+    "lang_set_to": "Idioma cambiado a `{lang}`",
+    "chan_lang_set_to": "Canal idioma cambiado a ` {lang} `"
   },
 
   "serverinfo": {
