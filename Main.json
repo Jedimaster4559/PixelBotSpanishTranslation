@@ -3,14 +3,14 @@
   "name": "español",
 
   "global": {
-    "inv_usr": ":warning: No puedo encontrar este usuario! Escribe la identificación del usuario por favor, o @<usuario>",
+    "inv_usr": ":warning: ¡No puedo encontrar este usuario! Escribe la identificación del usuario por favor, o @<usuario>",
     "no_permissions": ":warning: No tiene permiso para user este commando",
-    "bot_no_permissions": ":warning: No tengo permiso para hacerlo!",
+    "bot_no_permissions": ":warning: ¡No tengo permiso para hacerlo!",
     "informations": "Informaciónes",
-    "too_few_args": "Muy poco argumentos! Digita px!help <commando> para la función del este commando",
-    "role_higher_than_bot": "Este usuario tiene un papel mejor que mío!",
-    "user_role_lower": "Este usuario tiene un papel mejor que tú!",
-    "inv_channel": ":x: Canal inválido!"
+    "too_few_args": "¡Muy poco argumentos! Digita px!help <commando> para la función del este commando",
+    "role_higher_than_bot": "¡Este usuario tiene un papel mejor que mío!",
+    "user_role_lower": "¡Este usuario tiene un papel mejor que tú!",
+    "inv_channel": ":x: ¡Canal inválido!"
   },
 
   "weather": {
@@ -73,23 +73,23 @@
   },
 
   "removelogchannel": {
-    "no_log_channel": ":x: Este gremio no tiene canal de log configurado!",
-    "success": ":white_check_mark: Eliminado canal de log con éxito!"
+    "no_log_channel": ":x: ¡Este gremio no tiene canal de log configurado!",
+    "success": ":white_check_mark: ¡Eliminado canal de log con éxito!"
   },
 
   "removereportchannel": {
-    "no_report_channel": ":x: Este gremio no tiene canal de informe configurado!",
-    "success": ":white_check_mark: Eliminado canal de informe con éxito!"
+    "no_report_channel": ":x: ¡Este gremio no tiene canal de informe configurado!",
+    "success": ":white_check_mark: ¡Eliminado canal de informe con éxito!"
   },
 
   "removewarnchannel": {
-    "no_warn_channel": ":x: Este gremio no tiene canal de advisio configurado!",
-    "success": ":white_check_mark: Eliminado canal de advisio con éxito!"
+    "no_warn_channel": ":x: ¡Este gremio no tiene canal de advisio configurado!",
+    "success": ":white_check_mark: ¡Eliminado canal de advisio con éxito!"
   },
 
   "removewelcomechannel": {
-    "no_welcome_channel": ":x: Este gremio no tiene canal de bienvenida configurado!",
-    "success": ":white_check_mark: Eliminado canal de bienvenida con éxito!"
+    "no_welcome_channel": ":x: ¡Este gremio no tiene canal de bienvenida configurado!",
+    "success": ":white_check_mark: ¡Eliminado canal de bienvenida con éxito!"
   },
 
   "setautorole": {
@@ -161,7 +161,7 @@
     "kills_per_minute": "Muertes Por Minuto",
     "time_played": "Tiempo Jugando",
     "averrage_survival_time": "Tiempo Medio de Supervivencia",
-    "inv_usr": "Usuario inválido! verifica que el usuario usa la consola que seleccionado!"
+    "inv_usr": "¡Usuario inválido! ¡Verifica que el usuario usa la consola que seleccionado!"
   },
 
   "langlist": {
@@ -169,15 +169,15 @@
   },
 
   "mute": {
-    "mute_yourself": "No pueda silenciarte!",
-    "already_muted": ":warning: Este usuario ya está silenciado!",
-    "proper_time": ":warning: Entra un valor de tiempo válido por favor!"
+    "mute_yourself": "¡No pueda silenciarte!",
+    "already_muted": ":warning: ¡Este usuario ya está silenciado!",
+    "proper_time": ":warning: ¡Entra un valor de tiempo válido por favor!"
   },
 
   "purge": {
     "num_as_args": "Usa un número como argumento por favor. \n Uso: `px!purge <número>`",
     "less_than": ":warning: Número de mensajes para eliminar debe menos que o igual a 100",
-    "success": "Eliminado {amount} messages con éxito!"
+    "success": "¡Eliminado {amount} messages con éxito!"
   },
 
   "spotify": {
@@ -186,14 +186,14 @@
     "album": "Álbum",
     "author": "Autor",
     "listen": "Escuchando a",
-    "not_listening": "**Este Usuario no est'a escuchando a Spotify!**"
+    "not_listening": "**¡Este Usuario no est'a escuchando a Spotify!**"
   },
 
   "unmute": {
-    "cant_unmute_this_usr": ":warning: No pueda finalizar el silenco a ese usuario!",
-    "cant_unmute_yourself": ":warning: No pueda terminar el silenco de ti mismo!",
-    "not_muted": ":warning: Este usuario no estan silenciado!",
-    "success": ":mute: El silenco de {user} ha sido terminado"
+    "cant_unmute_this_usr": ":warning: ¡No pueda finalizar el silenco a ese usuario!",
+    "cant_unmute_yourself": ":warning: ¡No pueda terminar el silenco de ti mismo!",
+    "not_muted": ":warning: ¡Este usuario no estan silenciado!",
+    "success": ":mute: ¡El silenco de {user} ha sido terminado!"
   }
 
 }
