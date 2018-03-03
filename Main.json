@@ -93,38 +93,38 @@
   },
 
   "setautorole": {
-    "success": ":white_check_mark: Set role to give automatically on join to {role}"
+    "success": ":white_check_mark: Cambiado el papel para dar automáticamente en unirse a {role}"
   },
 
   "setleavemessage": {
-    "inv_msg": ":warning: Please enter valid message, for user name use `{USER}`",
-    "msg_set": "Leave message set to **{msg}**"
+    "inv_msg": ":warning: Entra un mensaje válido por favor, para nombre de usuario usa `{USER}`",
+    "msg_set": "Mensaje de dejando cambiado a **{msg}**"
   },
 
   "setwelcomemessage": {
-    "inv_msg": ":warning: Please enter valid message, for user name use `{USER}`",
-    "msg_set": "Welcome message set to **{msg}**"
+    "inv_msg": ":warning: Entra un mensaje válido por favor, para nombre de usuario usa `{USER}`",
+    "msg_set": "Mensaje de bienvendio cambiado a **{msg}**"
   },
 
   "setlogchannel": {
-    "chan_set": ":white_check_mark: Log channel set to {channel}"
+    "chan_set": ":white_check_mark: Canal de log cambiado a {channel}"
   },
 
   "setreportchannel": {
-    "chan_set": ":white_check_mark: Report channel set to {channel}"
+    "chan_set": ":white_check_mark: Canal de informe cambiado a {channel}"
   },
 
   "setwarnchannel": {
-    "chan_set": ":white_check_mark: Warn channel set to {channel}"
+    "chan_set": ":white_check_mark: Canal de advisio cambiado a {channel}"
   },
 
   "setwelcomechannel": {
-    "chan_set": ":white_check_mark: Welcome channel set to {channel}"
+    "chan_set": ":white_check_mark: Canal de bienvenido cambiado a {channel}"
   },
 
   "setmaxwarns": {
-    "inv_amount": ":warning: You must specify value that you want to be maximum warn count before ban",
-    "success": ":white_check_mark: Successfully set maximum warn count before ban to {amount} warns"
+    "inv_amount": ":warning: Debe indicar un numero que quiere ser el máximo del advisios antes de prohibiéndole",
+    "success": ":white_check_mark: Cambiado máximo del advisios antes de prohibiéndo a {amount} advisios"
   },
 
   "warn": {
