@@ -124,30 +124,30 @@
 
   "setmaxwarns": {
     "inv_amount": ":warning: Debe indicar un numero que quiere ser el máximo del advisios antes de prohibiéndole",
-    "success": ":white_check_mark: Cambiado máximo del advisios antes de prohibiéndo a {amount} advisios"
+    "success": ":white_check_mark: Cambiado máximo del advisios antes de prohibiéndo a {amount} advisios con éxito"
   },
 
   "warn": {
-    "no_warn_channel": ":warning: This server has no warn channel configured, please contact administrator to run px@setwarnchannel"
+    "no_warn_channel": ":warning: Este servido no tiene un canal de advisio, contacta un administrator por favor px@setwarnchannel"
   },
 
   "report": {
-    "no_report_channel": ":warning: This server has no report channel configured, please contact administrator to run px@setreportchannel",
-    "user": "Reported user",
-    "reported_by": "Reported by",
-    "chn": "Channel",
-    "time": "Time",
-    "rsn": "Reason",
-    "sent": ":white_check_mark: Your report has been sent successfully"
+    "no_report_channel": ":warning: Este servido no tiene un canal de informe, contacta un administrator por favor px@setreportchannel",
+    "user": "Usuario Reportado",
+    "reported_by": "Reportado por",
+    "chn": "Canal",
+    "time": "Tiempo",
+    "rsn": "Causa",
+    "sent": ":white_check_mark: Su informe ha sido enviado con éxito"
   },
 
   "botinfo": {
-    "author": "Author",
-    "version": "Version",
-    "website": "Website",
-    "cmd_count": "Command count",
-    "using_pixelbot": "Servers using PixelBOT",
-    "users_using_pixelbot": "Users using PixelBOT"
+    "author": "Autor",
+    "version": "Versión",
+    "website": "Sitio Web",
+    "cmd_count": "Numero de Commandos",
+    "using_pixelbot": "Servidors Usando PixelBOT",
+    "users_using_pixelbot": "Usuares Usando PixelBOT"
   },
 
   "fortnite": {
