@@ -49,47 +49,47 @@
   },
 
   "serverinfo": {
-    "owner": "Owner",
-    "region": "Server region",
-    "channel_count": "Channel count",
-    "total_members": "Total members",
-    "humans": "Humans",
+    "owner": "Propietario",
+    "region": "Región del servido",
+    "channel_count": "Numero del Canales",
+    "total_members": "Miembros total",
+    "humans": "Humanos",
     "bots": "Bots",
-    "verification_lvl": "Verification level",
-    "server_created": "Server created"
+    "verification_lvl": "Nivel de verificación",
+    "server_created": "Creación del servido"
   },
 
   "userinfo": {
-    "status": "Status",
-    "online": "Online",
-    "offline": "Offline",
-    "afk": "Away From Keyboard (AFK)",
-    "dnd": "Do Not Disturb",
+    "status": "Estado",
+    "online": "En Línea",
+    "offline": "Desconectado",
+    "afk": "Lejos Del Teclado",
+    "dnd": "No Molestar",
     "roles": "Roles",
-    "nickname": "Nickname",
-    "no_nickname": "No nickname",
-    "username": "Username",
-    "acc_creation": "Account creation date"
+    "nickname": "Apodo",
+    "no_nickname": "Sin Apodo",
+    "username": "Nombre de Usuario",
+    "acc_creation": "Fecha de creación de la cuenta"
   },
 
   "removelogchannel": {
-    "no_log_channel": ":x: This guild has no log channel configured!",
-    "success": ":white_check_mark: Successfully removed log channel!"
+    "no_log_channel": ":x: Este gremio no tiene canal de log configurado!",
+    "success": ":white_check_mark: Eliminado canal de log con éxito!"
   },
 
   "removereportchannel": {
-    "no_report_channel": ":x: This guild has no report channel configured!",
-    "success": ":white_check_mark: Successfully removed report channel!"
+    "no_report_channel": ":x: Este gremio no tiene canal de informe configurado!",
+    "success": ":white_check_mark: Eliminado canal de informe con éxito!"
   },
 
   "removewarnchannel": {
-    "no_warn_channel": ":x: This guild has no warn channel configured!",
-    "success": ":white_check_mark: Successfully removed warn channel!"
+    "no_warn_channel": ":x: Este gremio no tiene canal de advisio configurado!",
+    "success": ":white_check_mark: Eliminado canal de advisio con éxito!"
   },
 
   "removewelcomechannel": {
-    "no_welcome_channel": ":x: This guild has no welcome channel configured!",
-    "success": ":white_check_mark: Successfully removed welcome channel!"
+    "no_welcome_channel": ":x: Este gremio no tiene canal de bienvenida configurado!",
+    "success": ":white_check_mark: Eliminado canal de bienvenida con éxito!"
   },
 
   "setautorole": {
