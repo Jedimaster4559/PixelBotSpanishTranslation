@@ -151,17 +151,17 @@
   },
 
   "fortnite": {
-    "lifetime": "Lifetime statistics",
-    "total_score": "Total score",
-    "matches_played": "Matches played",
-    "wins": "Wins",
-    "win_percentage": "Win percentage",
-    "kills": "Kills",
-    "killdeathratio": "K/D Ratio",
-    "kills_per_minute": "Kills per minute",
-    "time_played": "Time played",
-    "averrage_survival_time": "Averrage survival time",
-    "inv_usr": "Invalid user! Check if user uses platform that you selected!"
+    "lifetime": "Estadísticas de por vida",
+    "total_score": "Puntaje Total",
+    "matches_played": "Partidos Jugado",
+    "wins": "Ganas",
+    "win_percentage": "Porcentaje de Gana",
+    "kills": "Matas",
+    "killdeathratio": "Relación K/D",
+    "kills_per_minute": "Muertes Por Minuto",
+    "time_played": "Tiempo Jugando",
+    "averrage_survival_time": "Tiempo Medio de Supervivencia",
+    "inv_usr": "Usuario inválido! verifica que el usuario usa la consola que seleccionado!"
   },
 
   "langlist": {
