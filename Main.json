@@ -51,7 +51,7 @@
   "serverinfo": {
     "owner": "Propietario",
     "region": "Región del servido",
-    "channel_count": "Numero del Canales",
+    "channel_count": "Número del Canales",
     "total_members": "Miembros total",
     "humans": "Humanos",
     "bots": "Bots",
@@ -123,7 +123,7 @@
   },
 
   "setmaxwarns": {
-    "inv_amount": ":warning: Debe indicar un numero que quiere ser el máximo del advisios antes de prohibiéndole",
+    "inv_amount": ":warning: Debe indicar un número que quiere ser el máximo del advisios antes de prohibiéndole",
     "success": ":white_check_mark: Cambiado máximo del advisios antes de prohibiéndo a {amount} advisios con éxito"
   },
 
@@ -145,7 +145,7 @@
     "author": "Autor",
     "version": "Versión",
     "website": "Sitio Web",
-    "cmd_count": "Numero de Commandos",
+    "cmd_count": "Número de Commandos",
     "using_pixelbot": "Servidors Usando PixelBOT",
     "users_using_pixelbot": "Usuares Usando PixelBOT"
   },
@@ -165,19 +165,19 @@
   },
 
   "langlist": {
-    "avb_lang_list": "List of available commands"
+    "avb_lang_list": "Lista de commandos válido"
   },
 
   "mute": {
-    "mute_yourself": "You cannot mute yourself!",
-    "already_muted": ":warning: This user is already muted!",
-    "proper_time": ":warning: Please enter a proper time value!"
+    "mute_yourself": "No pueda silenciarte!",
+    "already_muted": ":warning: Este usuario ya está silenciado!",
+    "proper_time": ":warning: Entra un valor de tiempo válido por favor!"
   },
 
   "purge": {
-    "num_as_args": "Please use a number as your arguments. \n Usage: `px!purge <amount>`",
-    "less_than": ":warning: Number of messages to delete should be less than or equal to 100",
-    "success": "Successfully deleted {amount} messages!"
+    "num_as_args": "Usa un número como argumento por favor. \n Uso: `px!purge <número>`",
+    "less_than": ":warning: Número de mensajes para eliminar debe menos que o igual a 100",
+    "success": "Eliminado {amount} messages con éxito!"
   },
 
   "spotify": {
