@@ -1,36 +1,36 @@
 {
 
-  "name": "english",
+  "name": "spanish",
 
   "global": {
-    "inv_usr": ":warning: I can't find user! Please, type user ID, or @<user>",
-    "no_permissions": ":warning: You have no permissions to use this command",
-    "bot_no_permissions": ":warning: I have no permissiosn to do it!",
-    "informations": "Informations",
-    "too_few_args": "Too few arguments! Type px!help <command> to get usage of this command",
-    "role_higher_than_bot": "This user has higher role than me!",
-    "user_role_lower": "This user has higher role than you!",
-    "inv_channel": ":x: Invalid channel!"
+    "inv_usr": ":warning: No puedo encontrar este usuario! Escribe la identificación del usuario por favor, o @<usuario>",
+    "no_permissions": ":warning: No tiene permiso para user este commando",
+    "bot_no_permissions": ":warning: No tengo permiso para hacerlo!",
+    "informations": "Informaciónes",
+    "too_few_args": "Muy poco argumentos! Digita px!help <commando> para la función del este commando",
+    "role_higher_than_bot": "Este usuario tiene un papel mejor que mío!",
+    "user_role_lower": "Este usuario tiene un papel mejor que tú!",
+    "inv_channel": ":x: Canal inválido!"
   },
 
   "weather": {
-    "valid_loc": "Please enter a valid location.",
-    "weather_for": "Weather for",
-    "timezone": "Timezone",
-    "degree_type": "Degree type",
-    "temp": "Temperature",
-    "degree": "degree",
-    "feels_like": "Feels Like",
-    "winds": "Winds",
-    "humidity": "Humidity",
-    "north": "North",
-    "southeast": "South-East",
-    "northeast": "North-East",
-    "southwest": "South-West",
-    "northwest": "North-West",
-    "south": "South",
-    "east": "East",
-    "west": "West"
+    "valid_loc": "Entra un ubicación válido por favor.",
+    "weather_for": "El clima por",
+    "timezone": "la zona horaria",
+    "degree_type": "tipo de grado",
+    "temp": "temperatura",
+    "degree": "grado",
+    "feels_like": "sentirse como",
+    "winds": "el viento",
+    "humidity": "humedad",
+    "north": "Norte",
+    "southeast": "Sureste",
+    "northeast": "Noreste",
+    "southwest": "Suroeste",
+    "northwest": "Noroeste",
+    "south": "Sur",
+    "east": "Este",
+    "west": "Oeste"
 
   },
 
