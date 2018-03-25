@@ -1,0 +1,199 @@
+{
+
+  "name": "español",
+
+  "global": {
+    "inv_usr": ":warning: ¡No puedo encontrar este usuario! Escribe la identificación del usuario por favor, o @<usuario>",
+    "no_permissions": ":warning: No tiene permiso para user este commando",
+    "bot_no_permissions": ":warning: ¡No tengo permiso para hacerlo!",
+    "informations": "Informaciónes",
+    "too_few_args": "¡Muy poco argumentos! Digita px!help <commando> para la función del este commando",
+    "role_higher_than_bot": "¡Este usuario tiene un papel mejor que mío!",
+    "user_role_lower": "¡Este usuario tiene un papel mejor que tú!",
+    "inv_channel": ":x: ¡Canal inválido!"
+  },
+
+  "weather": {
+    "valid_loc": "Entra un ubicación válido por favor.",
+    "weather_for": "El clima por",
+    "timezone": "la zona horaria",
+    "degree_type": "tipo de grado",
+    "temp": "temperatura",
+    "degree": "grado",
+    "feels_like": "sentirse como",
+    "winds": "el viento",
+    "humidity": "humedad",
+    "north": "Norte",
+    "southeast": "Sureste",
+    "northeast": "Noreste",
+    "southwest": "Suroeste",
+    "northwest": "Noroeste",
+    "south": "Sur",
+    "east": "Este",
+    "west": "Oeste"
+
+  },
+
+  "help": {
+    "user_grp": "Usuario",
+    "showing_usr_cmds": "Mostrando commandos del usuario. Para ver un otro groupo hace px!help [groupo / commando]",
+    "cmds_found": "Commandos encontrado",
+    "optional": "¨significa opcional",
+    "required": "significa necesario"
+  },
+
+  "setlanguage": {
+    "invalid_lang": "No puedo encontrar el idioma! Entra el nombre apropriado por favor\nEjemplo: px@setlang english",
+    "lang_set_to": "Idioma cambiado a `{lang}`",
+    "chan_lang_set_to": "Canal idioma cambiado a ` {lang} `"
+  },
+
+  "serverinfo": {
+    "owner": "Propietario",
+    "region": "Región del servido",
+    "channel_count": "Número del Canales",
+    "total_members": "Miembros total",
+    "humans": "Humanos",
+    "bots": "Bots",
+    "verification_lvl": "Nivel de verificación",
+    "server_created": "Creación del servido"
+  },
+
+  "userinfo": {
+    "status": "Estado",
+    "online": "En Línea",
+    "offline": "Desconectado",
+    "afk": "Lejos Del Teclado",
+    "dnd": "No Molestar",
+    "roles": "Roles",
+    "nickname": "Apodo",
+    "no_nickname": "Sin Apodo",
+    "username": "Nombre de Usuario",
+    "acc_creation": "Fecha de creación de la cuenta"
+  },
+
+  "removelogchannel": {
+    "no_log_channel": ":x: ¡Este gremio no tiene canal de log configurado!",
+    "success": ":white_check_mark: ¡Eliminado canal de log con éxito!"
+  },
+
+  "removereportchannel": {
+    "no_report_channel": ":x: ¡Este gremio no tiene canal de informe configurado!",
+    "success": ":white_check_mark: ¡Eliminado canal de informe con éxito!"
+  },
+
+  "removewarnchannel": {
+    "no_warn_channel": ":x: ¡Este gremio no tiene canal de advisio configurado!",
+    "success": ":white_check_mark: ¡Eliminado canal de advisio con éxito!"
+  },
+
+  "removewelcomechannel": {
+    "no_welcome_channel": ":x: ¡Este gremio no tiene canal de bienvenida configurado!",
+    "success": ":white_check_mark: ¡Eliminado canal de bienvenida con éxito!"
+  },
+
+  "setautorole": {
+    "success": ":white_check_mark: Cambiado el papel para dar automáticamente en unirse a {role}"
+  },
+
+  "setleavemessage": {
+    "inv_msg": ":warning: Entra un mensaje válido por favor, para nombre de usuario usa `{USER}`",
+    "msg_set": "Mensaje de dejando cambiado a **{msg}**"
+  },
+
+  "setwelcomemessage": {
+    "inv_msg": ":warning: Entra un mensaje válido por favor, para nombre de usuario usa `{USER}`",
+    "msg_set": "Mensaje de bienvendio cambiado a **{msg}**"
+  },
+
+  "setlogchannel": {
+    "chan_set": ":white_check_mark: Canal de log cambiado a {channel}"
+  },
+
+  "setreportchannel": {
+    "chan_set": ":white_check_mark: Canal de informe cambiado a {channel}"
+  },
+
+  "setwarnchannel": {
+    "chan_set": ":white_check_mark: Canal de advisio cambiado a {channel}"
+  },
+
+  "setwelcomechannel": {
+    "chan_set": ":white_check_mark: Canal de bienvenido cambiado a {channel}"
+  },
+
+  "setmaxwarns": {
+    "inv_amount": ":warning: Debe indicar un número que quiere ser el máximo del advisios antes de prohibiéndole",
+    "success": ":white_check_mark: Cambiado máximo del advisios antes de prohibiéndo a {amount} advisios con éxito"
+  },
+
+  "warn": {
+    "no_warn_channel": ":warning: Este servido no tiene un canal de advisio, contacta un administrator por favor px@setwarnchannel"
+  },
+
+  "report": {
+    "no_report_channel": ":warning: Este servido no tiene un canal de informe, contacta un administrator por favor px@setreportchannel",
+    "user": "Usuario Reportado",
+    "reported_by": "Reportado por",
+    "chn": "Canal",
+    "time": "Tiempo",
+    "rsn": "Causa",
+    "sent": ":white_check_mark: Su informe ha sido enviado con éxito"
+  },
+
+  "botinfo": {
+    "author": "Autor",
+    "version": "Versión",
+    "website": "Sitio Web",
+    "cmd_count": "Número de Commandos",
+    "using_pixelbot": "Servidors Usando PixelBOT",
+    "users_using_pixelbot": "Usuares Usando PixelBOT"
+  },
+
+  "fortnite": {
+    "lifetime": "Estadísticas de por vida",
+    "total_score": "Puntaje Total",
+    "matches_played": "Partidos Jugado",
+    "wins": "Ganas",
+    "win_percentage": "Porcentaje de Gana",
+    "kills": "Matas",
+    "killdeathratio": "Relación K/D",
+    "kills_per_minute": "Muertes Por Minuto",
+    "time_played": "Tiempo Jugando",
+    "averrage_survival_time": "Tiempo Medio de Supervivencia",
+    "inv_usr": "¡Usuario inválido! ¡Verifica que el usuario usa la consola que seleccionado!"
+  },
+
+  "langlist": {
+    "avb_lang_list": "Lista de commandos válido"
+  },
+
+  "mute": {
+    "mute_yourself": "¡No pueda silenciarte!",
+    "already_muted": ":warning: ¡Este usuario ya está silenciado!",
+    "proper_time": ":warning: ¡Entra un valor de tiempo válido por favor!"
+  },
+
+  "purge": {
+    "num_as_args": "Usa un número como argumento por favor. \n Uso: `px!purge <número>`",
+    "less_than": ":warning: Número de mensajes para eliminar debe menos que o igual a 100",
+    "success": "¡Eliminado {amount} messages con éxito!"
+  },
+
+  "spotify": {
+    "title": "Información de Seguimiento de Spotify",
+    "name": "Nombre de la Canción",
+    "album": "Álbum",
+    "author": "Autor",
+    "listen": "Escuchando a",
+    "not_listening": "**¡Este Usuario no est'a escuchando a Spotify!**"
+  },
+
+  "unmute": {
+    "cant_unmute_this_usr": ":warning: ¡No pueda finalizar el silenco a ese usuario!",
+    "cant_unmute_yourself": ":warning: ¡No pueda terminar el silenco de ti mismo!",
+    "not_muted": ":warning: ¡Este usuario no estan silenciado!",
+    "success": ":mute: ¡El silenco de {user} ha sido terminado!"
+  }
+
+}
