@@ -86,26 +86,26 @@
     "Report": {
       "name":"Report",
       "group":"User",
-      "desc":"Reports user",
-      "usage":"px!report <user> <reason>"
+      "desc":"Reporta un usuario",
+      "usage":"px!report <usuario> <razón>"
     },
     "Ban": {
       "name":"Ban",
       "group":"Administration",
-      "desc":"Permanently bans user from server",
-      "usage":"px@ban <user> <reason>"
+      "desc":"Prohiba un usuario desde el servidor permanentemente",
+      "usage":"px@ban <usario> <razón>"
     },
     "Kick": {
       "name":"Kick",
       "group":"Administration",
-      "desc":"Kicks user from server",
-      "usage":"px@kick <user> <reason>"
+      "desc":"Patea un usuario desde el servidor",
+      "usage":"px@kick <usuario> <razón>"
     },
     "Warn": {
       "name":"Warn",
       "group":"Administration",
-      "desc":"Warns user",
-      "usage":"px@warn <user> <reason>"
+      "desc":"Advisia un usuario",
+      "usage":"px@warn <usuario> <razón>"
     },
     "Setlogchannel": {
       "name":"Set log channel",
