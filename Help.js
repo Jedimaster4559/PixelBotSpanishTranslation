@@ -14,25 +14,25 @@
     "Weather": {
         "name":"Weather",
         "group":"Fun",
-        "desc":"Muestra informacion sobre la clima en <ubicación>",
+        "desc":"Muestra información sobre la clima en <ubicación>",
         "usage":"px!weather <ubicación>"
     },
     "Spotify": {
         "name":"Spotify",
         "group":"User",
-        "desc":"Shows informations about song listened by user",
-        "usage":"px!spotify [user]"
+        "desc":"Muestra información sobre la canción que el usuario está escuchándolo",
+        "usage":"px!spotify [usuario]"
     },
     "Stats": {
         "name":"Stats",
         "group":"User",
-        "desc":"Sends information about your level and XP",
+        "desc":"Envia informaci{on sobre su nivel y XP",
         "usage":"px!stats"
     },
     "Botinfo": {
         "name":"Botinfo",
         "group":"User",
-        "desc":"Shows informations about bot",
+        "desc":"Muetra información sobre el bot",
         "usage":"px!botinfo"
     },
     "Userinfo": {
