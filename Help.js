@@ -164,31 +164,31 @@
     "Setwelcomemessage": {
       "name":"Set welcome message",
       "group":"Administration",
-      "desc":"Sets custom message sent when user joins",
-      "usage":"px@setwelcomemessage <message>"
+      "desc":"Cambia el mensaje de bienvenidos",
+      "usage":"px@setwelcomemessage <mensaje>"
     },
     "Setleavemessage": {
       "name":"Set leave message",
       "group":"Administration",
-      "desc":"Sets custom message sent when user leaves",
-      "usage":"px@setleavemessage <message>"
+      "desc":"Cambia el mansaje de despendidas",
+      "usage":"px@setleavemessage <mensaje>"
     },
     "Setlanguage": {
       "name": "Set language",
       "group": "Administration",
-      "desc": "Sets language used by bot (px@langlist for list of them)",
-      "usage": "px@setlanguage <language>"
+      "desc": "Cambia el idioma del bot (px@langlist para una lista de idiomas)",
+      "usage": "px@setlanguage <idioma>"
     },
     "Setchannellanguage": {
       "name": "Set channel language",
       "group": "Administration",
-      "desc": "Sets language used by bot in given channel (px@langlist for list of them)",
-      "usage": "px@setlanguage <language> [channel]"
+      "desc": "Cambia el idioma del be en un canal (px@langlist para una lista de idiomas)",
+      "usage": "px@setlanguage <idioma> [canal]"
     },
     "Debug": {
       "name": "Debug",
       "group": "User",
-      "desc": "Screenshot of output will be needed when asking for help on support discord",
+      "desc": "Captura de Pantalla es necessario cuando preguntado para ayuda en el discord de apoyo",
       "usage": "px!debug"
     }
   }
