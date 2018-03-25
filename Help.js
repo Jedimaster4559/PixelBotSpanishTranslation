@@ -110,25 +110,25 @@
     "Setlogchannel": {
       "name":"Set log channel",
       "group":"Administration",
-      "desc":"Sets channel for log messages, if no channel is specified, it will set channel it's issued on, as log channel",
-      "usage":"px@setlogchannel [channel]"
+      "desc":"Cambia el canal para mensajes de log. Si no canal está especificado, cambialo a el canal desde el commando fue enviado",
+      "usage":"px@setlogchannel [canal]"
     },
     "Setwarnchannel": {
       "name":"Set warn channel",
       "group":"Administration",
-      "desc":"Sets channel for user warning messages, if no channel is specified, it will set channel it's issued on, as log channel",
-      "usage":"px@setwarnchannel [channel]"
+      "desc":"Cambia el cana para mensajes de advisias de usuarios. Si no canal está especificado, cambial a el canal desde el commando fue enviado",
+      "usage":"px@setwarnchannel [canal]"
     },
     "Removelogchannel": {
       "name":"Remove log channel",
       "group":"Administration",
-      "desc":"Disables log messages",
+      "desc":"Termina mensajes de log",
       "usage":"px@removelogchannel"
     },
     "Removewarnchannel": {
       "name":"Remove warn channel",
       "group":"Administration",
-      "desc":"Disables warn system",
+      "desc":"Termina mensajes de advisio",
       "usage":"px@removewarnchannel"
     },
     "Setmaxwarns": {
