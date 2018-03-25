@@ -26,37 +26,37 @@
     "Stats": {
         "name":"Stats",
         "group":"User",
-        "desc":"Envia informaci{on sobre su nivel y XP",
+        "desc":"Envia información sobre su nivel y XP",
         "usage":"px!stats"
     },
     "Botinfo": {
         "name":"Botinfo",
         "group":"User",
-        "desc":"Muetra información sobre el bot",
+        "desc":"Muestra información sobre el bot",
         "usage":"px!botinfo"
     },
     "Userinfo": {
         "name":"Userinfo",
         "group":"User",
-        "desc":"Shows informations about given user",
-        "usage":"px!userinfo [user]"
+        "desc":"Muestra información sobre un usuario",
+        "usage":"px!userinfo [usuario]"
     },
     "Uptime": {
         "name":"Uptime",
         "group":"User",
-        "desc":"Shows times since bot started",
+        "desc":"Muestra la cantidad de tiempo desde el comienzo del bot",
         "usage":"px!uptime"
     },
     "Serverinfo": {
         "name":"Serverinfo",
         "group":"User",
-        "desc":"Shows informations about server it's issued on",
+        "desc":"Muestra información sobre el servidor dónde este commando es usando",
         "usage":"px!serverinfo"
     },
     "Roles": {
         "name":"Roles",
         "group":"User",
-        "desc":"Shows list of server's roles",
+        "desc":"Muestra una lista de roles del servidor",
         "usage":"px!roles"
     },
     "Purge": {
