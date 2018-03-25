@@ -110,13 +110,13 @@
     "Setlogchannel": {
       "name":"Set log channel",
       "group":"Administration",
-      "desc":"Cambia el canal para mensajes de log. Si no canal está especificado, cambialo a el canal desde el commando fue enviado",
+      "desc":"Cambia el canal para mensajes de log. Si no canal está especificado, lo cambia al canal donde el commando fue enviado",
       "usage":"px@setlogchannel [canal]"
     },
     "Setwarnchannel": {
       "name":"Set warn channel",
       "group":"Administration",
-      "desc":"Cambia el cana para mensajes de advisias de usuarios. Si no canal está especificado, cambial a el canal desde el commando fue enviado",
+      "desc":"Cambia el canal para mensajes de advisias de usuarios. Si no canal está especificado, lo cambia al canal donde el commando fue enviado",
       "usage":"px@setwarnchannel [canal]"
     },
     "Removelogchannel": {
@@ -134,31 +134,31 @@
     "Setmaxwarns": {
       "name":"Set max warns",
       "group":"Administration",
-      "desc":"Sets maximal count of warns before user will be banned (Default amount is 3)",
-      "usage":"px@setmaxwarns <amount>"
+      "desc":"Cambia el maximo de advisos por un usario antes de un prohibición (Defecto es 3)",
+      "usage":"px@setmaxwarns <cantidad>"
     },
     "Setreportchannel": {
       "name":"Set report channel",
       "group":"Administration",
-      "desc":"Sets channel for report messages, if no channel is specified, it will set channel it's issued on, as report channel",
-      "usage":"px@setreportchannel [channel]"
+      "desc":"Cambia el canal para mensajes de informes. Si no no canal está especificado, lo cambia al canal donde el commando fue enviado",
+      "usage":"px@setreportchannel [canal]"
     },
     "Removereportchannel": {
       "name":"Remove report channel",
       "group":"Administration",
-      "desc":"Disables reports system",
+      "desc":"Termina mensajes de informe",
       "usage":"px@removereportchannel"
     },
     "Setwelcomechannel": {
       "name":"Set welcome channel",
       "group":"Administration",
-      "desc":"Sets channel for welcome/leave messages",
-      "usage":"px@setwelcomechannel [channel]"
+      "desc":"Cambia el canal para mensajes de bienvenidos y despedidas",
+      "usage":"px@setwelcomechannel [canal]"
     },
     "Removewelcomechannel": {
       "name":"Remove welcome channel",
       "group":"Administration",
-      "desc":"Disables welcome/leave messages",
+      "desc":"Termina mensajes de bienvenidos y despendidas",
       "usage":"px@removewelcomechannel"
     },
     "Setwelcomemessage": {
