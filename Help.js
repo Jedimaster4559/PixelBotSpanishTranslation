@@ -50,7 +50,7 @@
     "Serverinfo": {
         "name":"Serverinfo",
         "group":"User",
-        "desc":"Muestra información sobre el servidor dónde este commando es usando",
+        "desc":"Muestra información sobre el servidor donde este commando es usando",
         "usage":"px!serverinfo"
     },
     "Roles": {
@@ -62,25 +62,25 @@
     "Purge": {
       "name":"Purge",
       "group":"Moderation",
-      "desc":"Clears specified amount of messages from channel it's issued on",
-      "usage":"px!purge <amount>"
+      "desc":"Limpia una cantidad de mensajes de canal donde este commndo es usando",
+      "usage":"px!purge <cantidad>"
     },
     "Dog": {
       "name":"Dog",
       "group":"Fun",
-      "desc":"Sends random image of a dog",
+      "desc":"Envia una pictura aleatoria de un perro",
       "usage":"px!dog"
     },
     "Cat": {
       "name":"Cat",
       "group":"Fun",
-      "desc":"Sends random image of a cat",
+      "desc":"Envia una pictura aleatoria de un gato",
       "usage":"px!cat"
     },
     "Mute": {
       "name":"Mute",
       "group":"Moderation",
-      "desc":"Mutes user for a specified amount of time",
+      "desc":"Sliencia un usuario por una cantidad de tiempo",
       "usage":"px!mute <user> <time in seconds>"
     },
     "Report": {
