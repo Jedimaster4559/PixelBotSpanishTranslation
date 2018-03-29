@@ -191,4 +191,22 @@
       "desc": "Captura de Pantalla es necessario cuando preguntado para ayuda en el discord de apoyo",
       "usage": "px!debug"
     }
+    "Prefix": {
+      "name": "Prefix",
+      "group": "Administration",
+      "desc": "Command to set custom bot prefix for your server",
+      "usage": "px@prefix <mod | normal> <prefix>"
+    },
+    "Selfrole": {
+      "name": "Selfrole",
+      "group": "Selfroles",
+      "desc": "Command to set up roles that users can assign to their account themselves",
+      "usage": "px!selfrole [add | get | remove]"
+    },
+    "Autorole": {
+      "name": "Autorole",
+      "group": "Administration",
+      "desc": "Use this command to set role that will be given to every user that joins the guild",
+      "usage": "px@setautorole <name | mention | ID>"
+    }
   }
