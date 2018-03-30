@@ -191,4 +191,22 @@
       "desc": "Captura de Pantalla es necessario cuando preguntado para ayuda en el discord de apoyo",
       "usage": "px!debug"
     }
+    "Prefix": {
+      "name": "Prefix",
+      "group": "Administration",
+      "desc": "Un commando para cambiar un prefijo personalizado para su servidor.",
+      "usage": "px@prefix <nueva | regualr> <prefijo>"
+    },
+    "Selfrole": {
+      "name": "Selfrole",
+      "group": "Selfroles",
+      "desc": "Un commando para establecer roles que usuarios pueda darse a sí mismos.",
+      "usage": "px!selfrole [añadir | obtener | eliminar]"
+    },
+    "Autorole": {
+      "name": "Autorole",
+      "group": "Administration",
+      "desc": "Un commando para establecer un role defecto.",
+      "usage": "px@setautorole <nombre | mencionar | ID>"
+    }
   }

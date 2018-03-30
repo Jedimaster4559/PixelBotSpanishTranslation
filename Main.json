@@ -195,5 +195,10 @@
     "not_muted": ":warning: ¡Este usuario no estan silenciado!",
     "success": ":mute: ¡El silenco de {user} ha sido terminado!"
   }
+  
+  "logger": {
+    "invalid_level": ":x: Darme un nivel o nobre de log válido. Niveles de log: `Lite (1), Medium (2), Verbose (3)`",
+    "success": "**:white_check_mark: Cambiado nivel del log a {NIVEL}**"
+  }
 
 }
