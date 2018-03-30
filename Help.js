@@ -194,19 +194,19 @@
     "Prefix": {
       "name": "Prefix",
       "group": "Administration",
-      "desc": "Command to set custom bot prefix for your server",
-      "usage": "px@prefix <mod | normal> <prefix>"
+      "desc": "Un commando para cambiar un prefijo personalizado para su servidor.",
+      "usage": "px@prefix <nueva | regualr> <prefijo>"
     },
     "Selfrole": {
       "name": "Selfrole",
       "group": "Selfroles",
-      "desc": "Command to set up roles that users can assign to their account themselves",
-      "usage": "px!selfrole [add | get | remove]"
+      "desc": "Un commando para establecer roles que usuarios pueda darse a sí mismos.",
+      "usage": "px!selfrole [añadir | obtener | eliminar]"
     },
     "Autorole": {
       "name": "Autorole",
       "group": "Administration",
-      "desc": "Use this command to set role that will be given to every user that joins the guild",
-      "usage": "px@setautorole <name | mention | ID>"
+      "desc": "Un commando para establecer un role defecto.",
+      "usage": "px@setautorole <nombre | mencionar | ID>"
     }
   }
