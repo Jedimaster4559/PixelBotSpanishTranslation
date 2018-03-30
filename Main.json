@@ -197,8 +197,8 @@
   }
   
   "logger": {
-    "invalid_level": ":x: Please specify valid log level name or number. Available log levels: `Lite (1), Medium (2), Verbose (3)`",
-    "success": "**:white_check_mark: Successfully set log level to {LEVEL}**"
+    "invalid_level": ":x: Darme un nivel o nobre de log válido. Niveles de log: `Lite (1), Medium (2), Verbose (3)`",
+    "success": "**:white_check_mark: Cambiado nivel del log a {NIVEL}**"
   }
 
 }
